@@ -18,9 +18,9 @@ namespace restapinya
         {
             public async Task OnExecuteAsync()
             {
-                var client = new HttpClient();
-                var result = await client.GetStringAsync("http://localhost:3000/users");
-                Console.WriteLine(result);
+               // var client = new HttpClient();
+                //var result = await client.GetStringAsync("http://localhost:3000/users");
+               // Console.WriteLine(result);
 
             }
         }
