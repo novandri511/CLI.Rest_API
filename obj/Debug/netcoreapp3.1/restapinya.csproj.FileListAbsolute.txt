@@ -2,3 +2,12 @@ C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapi
 C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.AssemblyInfo.cs
 C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.csprojAssemblyReference.cache
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.deps.json
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.runtimeconfig.json
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.runtimeconfig.dev.json
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.dll
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.pdb
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.csproj.CopyComplete
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.dll
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.pdb
