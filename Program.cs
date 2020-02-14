@@ -14,14 +14,16 @@ namespace restapinya
             app.HelpOption();
             var optionSubject = app.Option("-s|--subject <SUBJECT>", "The subject", CommandOptionType.SingleValue);
 
-            app.Async.OnExecute(() =>
+            app.OnExecuteAsync(() =>
             {
                 var client = new HttpClient();
-                var result = await client.PostAsync("http://localhost:3000/todo", HttpContent content);
+                var content = new StringContent(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
+                var result = await client.GetAsync("http://localhost:3000/todo",content);
+                
                 //var subject = optionSubject.HasValue()
-                 //   ? optionSubject.Value()
-                 //   : "world";
-                 
+                //   ? optionSubject.Value()
+                //   : "world";
+
                 Console.WriteLine(result);
             
             });
