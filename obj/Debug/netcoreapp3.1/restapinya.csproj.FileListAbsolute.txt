@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\restapinya\restapinya\bin\Debug\netcoreapp3.1\restapinya.exe
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.AssemblyInfo.cs
+C:\Users\User\source\repos\restapinya\restapinya\obj\Debug\netcoreapp3.1\restapinya.csprojAssemblyReference.cache
